@@ -82,9 +82,9 @@ section.main .clouds img{
     25%{
         opacity: 1;
     }
-    50%{
+    90%{
         opacity: 1;
-        transform: scale(1);
+        transform: scale(4);
     }
     100%{
         opacity: 0;
